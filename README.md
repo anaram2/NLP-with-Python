@@ -1,5 +1,5 @@
 # NLP with Python
-POS, regex, lemmatization, tokenization, deep-learning, etc.
+Here you will find all the trainig tests I did during my NLP course with Python (includes: POS, regex, lemmatization, tokenization, deep-learning, etc.)
 
 
 #Python-text-basics file: 
